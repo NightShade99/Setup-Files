@@ -1,0 +1,1 @@
+wget https://in.download.nvidia.com/XFree86/Linux-x86_64/470.74/NVIDIA-Linux-x86_64-470.74.run
